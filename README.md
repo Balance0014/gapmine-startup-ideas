@@ -9,6 +9,8 @@ mined from real builder conversations on Reddit, Hacker News, Product Hunt and G
 
 ---
 
+This is an open, continuously updated dataset of startup ideas and unbuilt market gaps, for founders, indie hackers, and researchers who want demand signals from real conversations rather than invented ideas. GapMine mines public builder threads on Reddit, Hacker News, Product Hunt and GitHub, clusters people describing the same unmet need, and publishes the result here as machine-readable JSON, graded by evidence.
+
 ## What this is
 
 [GapMine](https://gapmine.com) continuously mines public builder conversations to surface **market gaps — real, unmet needs that nobody has built yet — before they get crowded.** This repository publishes that data as open, machine-readable JSON so it can be freely cited and analyzed. Every gap is a cluster of real people describing the same problem, graded by verifiable evidence — no AI-invented ideas.
@@ -32,6 +34,23 @@ mined from real builder conversations on Reddit, Hacker News, Product Hunt and G
 | `validated` | 4+ signals across 2+ independent platforms |
 | `corroborated` | 2+ signals |
 | `early` | a fresh, single-platform signal worth watching |
+
+## FAQ
+
+**Where does the data come from?**  
+Public builder conversations on Reddit, Hacker News, Product Hunt and GitHub. Every gap is a cluster of real people describing the same problem, not an AI-invented idea.
+
+**How is each gap graded?**  
+`validated` means 4+ signals across 2+ independent platforms; `corroborated` means 2+ signals; `early` is a fresh, single-platform signal worth watching.
+
+**How do I use the files?**  
+Each sector has a `data/<sector>-gaps.json` file with ranked opportunities, the audience asking, signal counts, and an evidence grade. Full written reports live on [gapmine.com/blog](https://gapmine.com/blog).
+
+**Can I use this in my own work?**  
+Yes. It's licensed CC-BY-4.0: free to use and cite with attribution to GapMine.
+
+**How current is it?**  
+The dataset is updated continuously by GapMine. The header at the top of this README shows the latest published date and how many gaps are in the current release.
 
 ## Citation
 
