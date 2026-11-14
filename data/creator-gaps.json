@@ -1,11 +1,11 @@
 {
   "sector": "creator",
   "label": "Creator Economy",
-  "generated_at": "2026-10-31",
-  "total_gaps": 96,
-  "total_signals": 591,
-  "total_sources": 170,
-  "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt and GitHub, graded by verifiable evidence. No AI-invented ideas.",
+  "generated_at": "2026-11-14",
+  "total_gaps": 100,
+  "total_signals": 653,
+  "total_sources": 186,
+  "methodology": "Gaps are clusters of real builder conversations mined from Reddit, Hacker News, Product Hunt, GitHub and others, graded by verifiable evidence. No AI-invented ideas.",
   "canonical_report": "https://gapmine.com/blog/state-of-creator-gaps-2026",
   "license": "CC-BY-4.0 — free to cite with attribution to GapMine (https://gapmine.com)",
   "opportunities": [
@@ -47,15 +47,6 @@
     },
     {
       "rank": 5,
-      "opportunity": "Invisible video recording",
-      "who_is_asking": "YouTube creators wanting to record videos without appearing on camera",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-07-26/video-recording-tool"
-    },
-    {
-      "rank": 6,
       "opportunity": "Easy Linocut Image Creation",
       "who_is_asking": "Procreate users stuck on designing linocut stencils, seeking tips and guidance for improvement",
       "signals": 1,
@@ -64,25 +55,16 @@
       "url": "https://gapmine.com/opportunities/2026-10-04/linocut-design-tool"
     },
     {
-      "rank": 7,
-      "opportunity": "YouTube Video Clip Organizer",
-      "who_is_asking": "YouTube creators losing hours searching through old clips for B-roll",
-      "signals": 9,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-08-08/youtube-video-planning"
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "opportunity": "YouTube Long-Form Growth",
-      "who_is_asking": "YouTube creators losing views, can't get videos pushed to their audience",
+      "who_is_asking": "YouTube creators losing views, stuck with sudden channel deaths after new uploads",
       "signals": 3,
       "sources": 1,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-06-23/long-form-youtube-production"
     },
     {
-      "rank": 9,
+      "rank": 7,
       "opportunity": "Short form video view tracker",
       "who_is_asking": "YouTube creators losing views on short form videos, despite initial success",
       "signals": 3,
@@ -91,7 +73,7 @@
       "url": "https://gapmine.com/opportunities/2026-08-27/youtube-short-form-video-analyzer"
     },
     {
-      "rank": 10,
+      "rank": 8,
       "opportunity": "Podcast Microphones For Noisy Rooms",
       "who_is_asking": "Podcast creators stuck on affordable microphones for noisy rooms, priced out of high-end options",
       "signals": 2,
@@ -100,7 +82,7 @@
       "url": "https://gapmine.com/opportunities/2026-08-20/podcast-microphones"
     },
     {
-      "rank": 11,
+      "rank": 9,
       "opportunity": "Podcast Recording Equipment",
       "who_is_asking": "Creator/podcasters losing audio quality with unstable remote recordings",
       "signals": 1,
@@ -109,7 +91,7 @@
       "url": "https://gapmine.com/opportunities/2026-06-21/podcast-remote-recording-connectivity"
     },
     {
-      "rank": 12,
+      "rank": 10,
       "opportunity": "Audio Drama Studio",
       "who_is_asking": "Audio creators stuck on producing audio dramas with limited crew and budget",
       "signals": 1,
@@ -118,7 +100,7 @@
       "url": "https://gapmine.com/opportunities/2026-07-06/audio-drama-creation"
     },
     {
-      "rank": 13,
+      "rank": 11,
       "opportunity": "YouTube Alternative",
       "who_is_asking": "YouTube creators abandoning the platform, seeking alternatives for content creation and watching",
       "signals": 1,
@@ -127,7 +109,7 @@
       "url": "https://gapmine.com/opportunities/2026-08-13/youtube-alternative-platform"
     },
     {
-      "rank": 14,
+      "rank": 12,
       "opportunity": "Save Favorite YouTube Videos",
       "who_is_asking": "YouTube creators losing favorite videos, hunting for easy archiving to external HD",
       "signals": 1,
@@ -136,16 +118,25 @@
       "url": "https://gapmine.com/opportunities/2026-10-06/video-archiver"
     },
     {
-      "rank": 15,
-      "opportunity": "Canva Alternative Without AI",
-      "who_is_asking": "Canva users drowning in frustration, hunting for a beginner-friendly alternative",
-      "signals": 2,
+      "rank": 13,
+      "opportunity": "Huberman Lab alternatives",
+      "who_is_asking": "Reddit creators seeking Huberman Lab alternatives with honest, evidence-based advice and high-quality guests",
+      "signals": 1,
       "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-09-05/canva-alternative"
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-10-26/podcast-alternative"
     },
     {
-      "rank": 16,
+      "rank": 14,
+      "opportunity": "YouTube Video Clip Organizer",
+      "who_is_asking": "YouTube creators losing hours searching through old clips for B-roll",
+      "signals": 11,
+      "sources": 3,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-08-08/youtube-video-planning"
+    },
+    {
+      "rank": 15,
       "opportunity": "Best Monitor for Streaming",
       "who_is_asking": "Macbook users stuck on monitor choice for editing and streaming with Premiere",
       "signals": 2,
@@ -154,16 +145,7 @@
       "url": "https://gapmine.com/opportunities/2026-10-15/monitor-setup"
     },
     {
-      "rank": 17,
-      "opportunity": "Non AI Verification Tool",
-      "who_is_asking": "Creator platform sellers drowning in AI images, losing authenticity",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-08-15/non-ai-verification-tool"
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "opportunity": "Easy podcast audience growth",
       "who_is_asking": "TikTok and Instagram creators losing listeners, hunting for easy podcast audience growth",
       "signals": 1,
@@ -172,7 +154,7 @@
       "url": "https://gapmine.com/opportunities/2026-08-28/podcast-promotion-tool"
     },
     {
-      "rank": 19,
+      "rank": 17,
       "opportunity": "Personalized podcast finder",
       "who_is_asking": "Creator-general users hunting for a Goodreads-like podcast finder app or website",
       "signals": 1,
@@ -181,34 +163,7 @@
       "url": "https://gapmine.com/opportunities/2026-09-05/podcast-discovery-platform"
     },
     {
-      "rank": 20,
-      "opportunity": "AI Free Podcast Hosting",
-      "who_is_asking": "Zencaster creators can't afford AI-driven podcast hosting, seeking human-made alternatives",
-      "signals": 1,
-      "sources": 1,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-09-05/podcast-publishing"
-    },
-    {
-      "rank": 21,
-      "opportunity": "Huberman Lab alternatives",
-      "who_is_asking": "Reddit creators seeking Huberman Lab alternatives with honest, evidence-based advice and high-quality guests",
-      "signals": 1,
-      "sources": 2,
-      "evidence": "early",
-      "url": "https://gapmine.com/opportunities/2026-10-26/podcast-alternative"
-    },
-    {
-      "rank": 22,
-      "opportunity": "Substack Growth Strategy",
-      "who_is_asking": "Substack creators stuck on slow growth, can't seem to fix it",
-      "signals": 5,
-      "sources": 1,
-      "evidence": "corroborated",
-      "url": "https://gapmine.com/opportunities/2026-05-11/social-media-growth-strategy"
-    },
-    {
-      "rank": 23,
+      "rank": 18,
       "opportunity": "Travel Video Tripod",
       "who_is_asking": "Creator-general users seeking lightweight travel tripods for videography and photography needs",
       "signals": 4,
@@ -217,7 +172,7 @@
       "url": "https://gapmine.com/opportunities/2026-08-04/travel-video-tripod"
     },
     {
-      "rank": 24,
+      "rank": 19,
       "opportunity": "Stem Separation Software",
       "who_is_asking": "Creator developers can't afford Audioshake, hunting open-source stem separation alternatives",
       "signals": 2,
@@ -226,13 +181,58 @@
       "url": "https://gapmine.com/opportunities/2026-07-02/stem-separation-tool"
     },
     {
-      "rank": 25,
+      "rank": 20,
       "opportunity": "Thumbnail Creation Tool",
       "who_is_asking": "YouTube creators losing Canva premium value, hunting for cheaper background removal tools",
       "signals": 2,
       "sources": 1,
       "evidence": "corroborated",
       "url": "https://gapmine.com/opportunities/2026-07-14/thumbnail-maker"
+    },
+    {
+      "rank": 21,
+      "opportunity": "Invisible video recording",
+      "who_is_asking": "YouTube creators can't record videos without appearing on camera",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-26/video-recording-tool"
+    },
+    {
+      "rank": 22,
+      "opportunity": "Pro Color Editing",
+      "who_is_asking": "Avid editors stuck on colour grading, considering Resolve or Final Cut for commercial post",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-07-29/color-grading-tool"
+    },
+    {
+      "rank": 23,
+      "opportunity": "Alternative Video Platforms",
+      "who_is_asking": "YouTube creators hunting for alternative video platforms with better UI and no ads",
+      "signals": 2,
+      "sources": 1,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-09-28/video-platform-alternative"
+    },
+    {
+      "rank": 24,
+      "opportunity": "Non AI Voice Changer",
+      "who_is_asking": "YouTube creators can't afford AI-driven voice changers, hunting for non-AI alternatives",
+      "signals": 2,
+      "sources": 2,
+      "evidence": "corroborated",
+      "url": "https://gapmine.com/opportunities/2026-10-24/voice-changer"
+    },
+    {
+      "rank": 25,
+      "opportunity": "Self Hosted Note App",
+      "who_is_asking": "Self-hosted note app users stuck on editing experience and sync issues",
+      "signals": 1,
+      "sources": 1,
+      "evidence": "early",
+      "url": "https://gapmine.com/opportunities/2026-07-07/self-hosted-notes"
     }
   ]
 }
